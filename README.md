@@ -21,7 +21,7 @@
 - Usar fontes externas;
 - Criar um servidor Dart que roda HTML/CSS;
 
-## Dificuldades:
+## Dificuldades superadas:
 
 - Linguagem Markdown (primeiro contato);
 - Usar dois arquivos CSS simultâneos;
