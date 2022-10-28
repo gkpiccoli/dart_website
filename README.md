@@ -2,7 +2,7 @@
 
 ## Imagens do projeto:
 
-![image]:(https://raw.githubusercontent.com/gkpiccoli/dart_website/main/preview.png)
+![image](https://raw.githubusercontent.com/gkpiccoli/dart_website/main/preview.png)
 
 ## Como rodar o projeto:
 
