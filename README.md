@@ -9,11 +9,10 @@
 ## Running and building
 
 - Clone o repositório.
-- No terminal, execute: `pub get`.
-- Para rodar o projeto: [dartdevc](https://dart.dev/tools/dartdevc):
+- No terminal, execute: 
 
   ```console
-  $ pub run build_runner serve
+  $ dart pub get
   ```
 
 ## O que eu aprendi:
