@@ -23,6 +23,6 @@
 
 ## Dificuldades superadas:
 
-- [X]Linguagem Markdown (primeiro contato);
-- [X]Usar dois arquivos CSS simultâneos;
+- [X] Linguagem Markdown (primeiro contato);
+- [X] Usar dois arquivos CSS simultâneos;
 
