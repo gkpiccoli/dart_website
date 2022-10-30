@@ -1,10 +1,9 @@
 # Servidor Web baseado em Dart:
 
-## Imagens do projeto:
+## Preview:
 
 ![image](https://raw.githubusercontent.com/gkpiccoli/dart_website/main/preview.png)
 
-## Como rodar o projeto:
 
 ## Running and building
 
